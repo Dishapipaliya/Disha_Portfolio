@@ -2,7 +2,7 @@
   {
     "key": 1,
     "title": "vehicleservicemanagement",
-    "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
+    "imageSrc": "https://cdn.prod.website-files.com/669bff820d74cda087664d9d/669bff820d74cda087665c47_Fleet%20Management%20blog%20graphicl_V4%20Email.png",
     "description": "This is a project made with complete Django.",
     "demo": "https://www.example.com",
     "source": "https://github.com/Dishapipaliya/vehicleservicemanagement-master"
@@ -10,7 +10,7 @@
   {
     "key": 2,
     "title": "VBAMS",
-    "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
+    "imageSrc": "https://media.licdn.com/dms/image/D4D12AQHPrp9B25N4uQ/article-cover_image-shrink_720_1280/0/1701620692744?e=2147483647&v=beta&t=1HfcBpclOkDuwm3wFdR-MoLjYhA2R9XBTmDGn3s1FUQ",
     "description": "This is a project made with complete Django.",
     "demo": "https://www.example.com",
     "source": "https://github.com/Dishapipaliya/VBAMS-Django-Project"
@@ -18,7 +18,7 @@
   {
     "key": 3,
     "title": "Dairy-Product",
-    "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
+    "imageSrc": "https://www.designerpeople.com/wp-content/uploads/2020/03/dairy-business-india.jpg",
     "description": "This is a project made with complete Django.",
     "demo": "https://www.example.com",
     "source": "https://github.com/Dishapipaliya/Dairy_Django_project"
