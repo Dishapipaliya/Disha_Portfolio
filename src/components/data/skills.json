@@ -16,12 +16,12 @@
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node",
-    "imageSrc": "skills/node.png"
+    "title": "Python",
+    "imageSrc": "skills/python.png"
   },
   {
-    "title":"Firebase",
-    "imageSrc":"skills/firebase.png"
+    "title":"Mysql",
+    "imageSrc":"skills/mysql1.png"
   },
   {
     "title": "GraphQL",
@@ -32,7 +32,11 @@
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.png"
   }
 ]

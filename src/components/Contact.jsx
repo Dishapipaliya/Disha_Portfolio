@@ -25,9 +25,7 @@ const Contact = () => {
           <a href="https://www.linkedin.com/feed/" target="_blank" className="items">
             <CiLinkedin className="icons" />
           </a>
-          <a href="https://www.google.com" target="_blank" className="items">
-            <FaSquareXTwitter className="icons" />
-          </a>
+          
           <a href="https://www.github.com" target="_blank" className="items">
             <FaGithubSquare className="icons" />
           </a>
