@@ -71,7 +71,7 @@ a {
   animation-iteration-count: infinite;
 }
 
-@keyframes superman {
+/* @keyframes superman {
   0% {
     border-color: blue;
     transform: translate(0, 0px);
@@ -99,7 +99,7 @@ a {
     transform: translate(0, -0px);
     box-shadow: 10px 10px 100px 50px rgb(50, 55, 205);
   }
-}
+} */
 
 /* Experience Section */
 
