@@ -118,6 +118,7 @@ a {
   border-radius: 10px;
   border: 1px solid yellow;
   box-shadow: var(--box-shadow);
+  text-align: center;
 }
 
 /* Skills */

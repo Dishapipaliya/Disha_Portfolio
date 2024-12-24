@@ -3,26 +3,39 @@
     "id": 1,
     "role": "Django Developer",
     "organisation": "Artoon Solution,",
-    "startDate": "Sept, 2023",
-    "endDate": "Present",
+    "startDate": "Jan, 2024",
+    "endDate": "Dec, 2024",
     "location": "Surat, India",
     "experiences": [
-      "Worked on Google Gmail",
-      "Worked with the Google Bard Team"
+      "Worked on Python Full stack developer"
+      
     ],
-    "imageSrc": "company/google.png"
+    "imageSrc": "company/artton.png"
   },
   {
     "id": 2,
     "role": "Django Developer",
     "organisation": "Mirosoft",
-    "startDate": "Aug, 2022",
-    "endDate": "Aug, 2023",
+    "startDate": "Jan, 2024",
+    "endDate": "Dec, 2023",
     "location": "Surat, India",
     "experiences": [
-      "Worked on Windows 10 terminal",
-      "Worked on Window 11 Upcoming features"
+      "Worked on Django Website"
+      
     ],
-    "imageSrc": "company/microsoft.png"
+    "imageSrc": "company/decodx.png"
+  },
+  {
+    "id": 2,
+    "role": "Django Developer - Intern",
+    "organisation": "Mirosoft",
+    "startDate": "Jul, 2020",
+    "endDate": "Dec, 2020",
+    "location": "Surat, India",
+    "experiences": [
+      "Worked on Django Website"
+      
+    ],
+    "imageSrc": "company/decodx.png"
   }
 ]
