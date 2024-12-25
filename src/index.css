@@ -43,6 +43,7 @@ a {
 }
 
 .home .left {
+  color: white;
   background-color: var(--bg-color);
   width: 620px;
   text-align: center;
@@ -104,10 +105,12 @@ a {
 /* Experience Section */
 
 .ex {
+  color: white;
   width: 900px;
 }
 
 .ex-items {
+  color: white;
   display: flex;
   justify-content: space-between;
   align-items: center;
