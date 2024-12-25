@@ -138,6 +138,7 @@ a {
 }
 
 .skills .items .item {
+  color: white;
   width: calc(33.33%);
   background-color: black;
   margin: 20px;
